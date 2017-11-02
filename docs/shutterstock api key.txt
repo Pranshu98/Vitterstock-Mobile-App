@@ -1,0 +1,23 @@
+﻿Client ID: 25774aa522c9ac3fbe0f
+Client Secret: 076ecdee0fa295600b05ab5c20c523156e4a8b3e
+
+Base64 MjU3NzRhYTUyMmM5YWMzZmJlMGY6MDc2ZWNkZWUwZmEyOTU2MDBiMDVhYjVjMjBjNTIzMTU2ZTRhOGIzZQ==
+
+https://${client_id}:${client_secret}@api.shutterstock.com/v2/images/search?query=donkey
+
+https://${25774aa522c9ac3fbe0f}:${076ecdee0fa295600b05ab5c20c523156e4a8b3e}@api.shutterstock.com/v2/images/search?query=donkey
+
+
+https://api.shutterstock.com/v2/images/search?query=donkey
+Header:
+Authorization
+
+Authorization header data: Basic MjU3NzRhYTUyMmM5YWMzZmJlMGY6MDc2ZWNkZWUwZmEyOTU2MDBiMDVhYjVjMjBjNTIzMTU2ZTRhOGIzZQ==
+
+
+https://api.shutterstock.com/v2/images/search?query=donkey&page=1&per_page=50
+
+
+https://api.shutterstock.com/v2/images/search?query=donkey&page=1&per_page=50&fields=url,object(content,attachments/url)
+
+fields=url,object(content,attachments/url)

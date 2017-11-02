@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\7c608c449b9b6af23b75056db272de9a75d41e4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\pre-dexed\debug\classes_0bbc914c6cb39d7ffe98376503cece91b683bcf3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranjal\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_c42ae16f45633811748642c1fb333e3bad136deb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\7c608c449b9b6af23b75056db272de9a75d41e4d\output\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.1.1_8828f00a0f4812384aabffd831bd0ff83fbc8a89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pranjal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.1.1_b16ad80755d798204f2baeacea19e8518e35a53e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pranjal\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\pre-dexed\debug\gson-2.3.1_c42ae16f45633811748642c1fb333e3bad136deb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\7c608c449b9b6af23b75056db272de9a75d41e4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0bbc914c6cb39d7ffe98376503cece91b683bcf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\f94283e550480196671806559d125ff72db80eb2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_910a10da12c4e01d118a83560b05eb0428be7135\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\41d72b106a7ac10d744b1db3c67bd15c4572d78b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\pre-dexed\debug\classes_18df7a32392f04c1ef028a76eff54cd564841737.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\2025a5498744051b6712f0a5631ba387c9c07a0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8f319d6077a3656b3b5012de706a1f1cb93c897">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8136297cd90eea0651f324f6ea601c0f821f9034\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\5708cc817386e31fe2ec3a5cf63fd37b583d5286\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_707ea9b3d09605283f5e1539c431296a7d8fe08d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\4a89e2cd707b216c683b16f10663428498101357\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\pre-dexed\debug\classes_1991e5bc52151b46381411428fac22c351a06764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\31a93d3923b8e10a1ed86fef9535ade623804de0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\pre-dexed\debug\classes_56937b10cd87cb6592ddb22baed7cd059b947fd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pranjal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_9cdb44e82d0dc4c5f487ec1a19b3500bbfd45ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\5708cc817386e31fe2ec3a5cf63fd37b583d5286\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\pre-dexed\debug\classes_707ea9b3d09605283f5e1539c431296a7d8fe08d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\7c608c449b9b6af23b75056db272de9a75d41e4d\output\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1_8828f00a0f4812384aabffd831bd0ff83fbc8a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\2025a5498744051b6712f0a5631ba387c9c07a0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8f319d6077a3656b3b5012de706a1f1cb93c897">
+        <dex dex="C:\Users\pranjal\Documents\AndroidStudioApps\ShutterstockDemo-master\app\build\intermediates\pre-dexed\debug\classes_8136297cd90eea0651f324f6ea601c0f821f9034.jar" />
+    </item>
+
+</items>
